@@ -8,11 +8,13 @@ Bavak Security Group is the leading manufacturer and supplier of physical, elect
 
 <hr>
 
-[Website:](https://www.bavak.com)
-[GitHub repositories:](https://github.com/bavaksecurity)  
+[Website](https://www.bavak.com)
+
+[GitHub](https://github.com/bavaksecurity)  
 
 
 ### Contact us
 
 [development@bavak.com](mailto:development@bavak.com)
+
 [info@bavak.com](mailto:info@bavak.com)
